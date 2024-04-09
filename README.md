@@ -19,4 +19,4 @@ Las materias que mas disfrute cursar hasta ahora fueron; Matematica para informa
 Programacion Estructurada. Y espero para el final del cuatrimestre poder agregar Programacion con Objetos
 a la lista :)
 
-![Foto personal](./assets/AgusE.JEPG)
+![](./assets/AgusE.jpeg)
